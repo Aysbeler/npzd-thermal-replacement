@@ -1,0 +1,8 @@
+numpy==2.4.4
+scipy==1.17.1
+matplotlib==3.10.8
+sympy==1.14.0
+# needed only by cmems_extract.py, neighbor_check.py and spatial_transfer.py
+xarray==2026.7.0
+netCDF4==1.7.4
+pandas==3.0.2
